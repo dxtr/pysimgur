@@ -16,8 +16,8 @@ You can even upload several urls and files (Yes, you can even mix them):
     pysimgur.py /path/to/file1 http://host1/file /path/to/file2 http://host2/file etc..
 
 To take a screenshot and upload:
-pysimgur.py
-
+    pysimgur.py
+(For this to work you will need pygtk)
 
 Contact
 ========
